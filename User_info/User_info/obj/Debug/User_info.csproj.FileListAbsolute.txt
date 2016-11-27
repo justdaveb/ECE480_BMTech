@@ -1,0 +1,6 @@
+c:\users\lukas\documents\visual studio 2015\Projects\User_info\User_info\bin\Debug\User_info.exe.config
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\User_info\User_info\obj\Debug\User_info.csprojResolveAssemblyReference.cache
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\User_info\User_info\bin\Debug\User_info.exe
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\User_info\User_info\bin\Debug\User_info.pdb
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\User_info\User_info\obj\Debug\User_info.exe
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\User_info\User_info\obj\Debug\User_info.pdb
